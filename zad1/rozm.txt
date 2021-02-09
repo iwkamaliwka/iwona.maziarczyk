@@ -1,0 +1,9 @@
+parawirtualizacja - zmieni jadro systemu tak by wspomagalo przechowywanie
+hypervisora instrukcji.
+przyklady: Wine,Qemu
+palna wirtualizacja - nie zmienia systemu, a przechwytuje
+przyklady: VirtualBox, VMware
+wirtualizacja z poziomi OS - wirtualizowanie bezposrednio z poziomu OS, mozna
+tworzyc niezalezne serwery i srodowiska
+przyklady: Linux-Vserver, OpenVZ
+
