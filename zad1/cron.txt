@@ -1,0 +1,2 @@
+crontab -e
+15 * * * cp -fr/path/to/file/zad1/rozw.txt/path/to/file/zad1/notatki.txt
